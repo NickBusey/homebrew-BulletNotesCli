@@ -5,8 +5,7 @@ A quick, easy interface to manage your notes using the BulletNotesBot.
 Usage:
 
 ```
-brew tap NickBusey/BulletNotesCli
-brew install bulletnotescli
+brew install NickBusey/Bulletnotescli/bulletnotescli
 bulletnotescli
 ```
 
