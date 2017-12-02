@@ -1,4 +1,4 @@
-class BulletNotesCLI < Formula
+class Bulletnotescli < Formula
   desc "A command line tool to manage your notes"
   homepage "https://github.com/NickBusey/BulletNotes"
   url "https://github.com/NickBusey/BulletNotes/raw/master/archive/bulletnotescli-1.0.0.tar.gz"
